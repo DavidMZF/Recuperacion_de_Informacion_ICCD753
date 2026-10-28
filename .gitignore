@@ -1,0 +1,16 @@
+# Corpus y datos del proyecto
+*.txt
+*.txt-files
+*.zip
+*.tar.gz
+
+# Gráficos y visualizaciones
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# IDEs y Editores
+.vscode/
+.idea/
+.DS_Store
